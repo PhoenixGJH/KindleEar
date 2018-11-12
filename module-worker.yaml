@@ -1,4 +1,4 @@
-application: kindleear
+application: phorsspush
 version: 1
 module: worker
 runtime: python27
